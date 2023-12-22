@@ -1,0 +1,30 @@
+{
+  "repo": {
+    "name": "osulazer Source",
+    "identifier": "sh.ppy.osulazer"
+  },
+  "apps": [
+    {
+      "name": "osu!",
+      "bundleIdentifier": "sh.ppy.osulazer",
+      "filename": "osu.iOS.ipa",
+      "githubOwner": "ppy",
+      "githubRepository": "osu",
+      "developerName": "Dean Herbert ",
+      "subtitle": "A free-to-win rhythm game. Rhythm is just a click away!.",
+      "localizedDescription": "This is the future and final iteration of the osu! game client which marks the beginning of an open era! Currently known by and released under the release codename \"lazer\". As in sharper than cutting-edge.",
+      "iconURL": "https://github.com/ppy/osu/raw/master/assets/lazer.png",
+      "tintColor": "ffaacf",
+      "minOSVersion": "13.4",
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://i.ppy.sh/84471525408b1cef5e4c80653fd332f7676daffc/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f436c69656e742f496e746572666163652f696d672f696e74726f2d73637265656e2e6a7067",
+        "https://i.ppy.sh/ef76c04250a5e257570e49eba7e4dceddc24846a/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f436c69656e742f496e746572666163652f696d672f6d61696e2d6d656e752e6a7067 ",
+        "https://i.ppy.sh/8a9dc57b89e83e438195ae4d11c00e880fba2094/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f436c69656e742f496e746572666163652f696d672f757365722d6f7074696f6e732e6a7067",
+        "https://i.ppy.sh/7f8ec98a555be32d042ba205162238a509b812d1/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f436c69656e742f496e746572666163652f696d672f706c61792d6d656e752e6a7067",
+        "https://i.ppy.sh/4aa3f7b468ab88ca26d22729e836f65415faab99/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f436c69656e742f496e746572666163652f696d672f6d756c74692d6c6f6262792e6a7067",
+        "https://i.ppy.sh/61dba2df13e742a11cae94ac7fe9deedb3c38ef8/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f436c69656e742f496e746572666163652f696d672f736f6e672d73656c656374696f6e2e6a7067"
+      ]
+    }
+  ]
+}
